@@ -1,12 +1,16 @@
 # Assignment
 
-## Objectives
+## Installation Guide
 
-By the end of this project you will:
+Download this project to your computer by clicking the green 'Clone or download' button at the top of this repository OR by typing 'git clone https://github.com/CameronHCouch/application_assignment.git' in the command line.
 
-- clone a Github project.
-- install a npm package.
-- debug a piece of code.
+Use the following terminal commands in the project directory:
+- npm install
+- npm start
+
+This second command will run the Node server. For the app to work, be sure to leave your terminal window open!
+
+To visit the site, open your browser and type localhost:3000. You should see the working site.
 
 ## Introduction
 
